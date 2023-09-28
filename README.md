@@ -1,6 +1,6 @@
-# my_app
+# Currency converter app
 
-A new Flutter project.
+A new Flutter app which converts the entererd currency in dollar to Rupee,Pound or Euro.
 
 ## Getting Started
 
